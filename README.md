@@ -2,7 +2,7 @@
 
 A mini collection of **fun, terminal-based games** written in Python. Perfect for beginners exploring basic logic, conditional statements, and user interaction in programming.
    
-## 🕹️ Included Games 
+## 🕹️ Included Games   
 
 1. **Hand Cricket**
    - Play a virtual cricket match using hand gestures (number inputs) against the computer.
