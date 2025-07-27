@@ -17,7 +17,7 @@ A mini collection of **fun, terminal-based games** written in Python. Perfect fo
    - Visual feedback for each wrong guess, and automatic win/loss detection.
    
 ---   
-    
+     
 ## 🛠️ Tech Stack
 
 | Feature           | Details                         |
