@@ -1,6 +1,6 @@
 # 🎮 PocketGames
   
-A mini collection of **fun, terminal-based games** written in Python. Perfect for beginners exploring basic logic, conditional statements, and user interaction in programming.
+A mini collection of **fun, terminal-based games** written in Python. Perfect for beginners exploring basic logic, conditional statements, and user interaction in programming.  
      
 ## 🕹️ Included Games   
  
