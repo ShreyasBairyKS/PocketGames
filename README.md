@@ -7,7 +7,7 @@ A mini collection of **fun, terminal-based games** written in Python. Perfect fo
 1. **Hand Cricket**
    - Play a virtual cricket match using hand gestures (number inputs) against the computer.      
    - Simulates batting and bowling innings with randomized computer inputs. 
-   
+      
 2. **Rock Paper Scissors**  
    - A classic game of chance against the computer.
    - Includes user input validation and round-based scoring.
