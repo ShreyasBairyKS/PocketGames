@@ -14,7 +14,7 @@ A mini collection of **fun, terminal-based games** written in Python. Perfect fo
 
 3. **Hangman**
    - Guess the word one letter at a time.
-   - Visual feedback for each wrong guess, and automatic win/loss detection.
+   - Visual feedback for each wrong guess, and automatic win/loss detection.  
    
 ---    
      
